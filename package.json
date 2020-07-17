@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "lodash-cli": "^4.17.5",
     "lodash.clamp": "^4.0.3",
     "node-sass": "^4.12.0",
